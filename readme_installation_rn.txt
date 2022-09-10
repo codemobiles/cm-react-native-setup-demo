@@ -1,6 +1,15 @@
 - Android Studio
+  + Downalod, new Project, emulator, run
+  + set JAVA_HOME and ANDROID_HOME 
+    - ANDROID_HOME : /Users/chaiyasittayabovorn/Library/Android/sdk
+    - JDK : ~/Library/Java/JavaVirtualMachines/liberica-11.0.16.1
+    - (macos package.json) export JAVA_HOME='/opt/homebrew/Cellar/openjdk@11/11.0.10/libexec/openjdk.jdk/Contents/Home' && export ANDROID_HOME='/Users/chaiyasittayabovorn/Library/Android/sdk/' && 
+
 - Nodejs (LTS latest)
 - Yarn (sudo npm i -g yarn)
+- new react-native project in typescript
+ + npx react-native init demo1 --template react-native-template-typescript
+
 - Xcode (only mac)
 - HomeBrew (only mac)
 - Jdk11 (via android studio)
